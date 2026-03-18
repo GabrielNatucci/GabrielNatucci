@@ -10,10 +10,10 @@
 
 ## 🧠 Sobre mim
 
-- 🔧 Foco em performance e sistemas
-- 🧩 Curto trabalhar com C, C++ e Zig
-- 🖥️ Explorando engines, renderização e coisas low-level
-- 🤖 Também mexo com web quando precisa
+- Foco em performance e sistemas
+- Curto trabalhar com C, C++ e Zig
+- Explorando engines, renderização e coisas low-level
+- Também mexo com web quando precisa
 
 ---
 
@@ -36,25 +36,9 @@
 
 ## 🔥 Projetos em destaque
 
-- 🧠 Tic Tac Toe com IA (minimax)
-- ⚙️ Engine com foco em performance
-- 🖥️ Calculadora desktop com Electron
-- 🤖 Projetos embarcados / Arduino
+- Tic Tac Toe com minimax
+- Calculadora desktop com Electron
+- HeadUnit com android auto
+- Projetos embarcados / Arduino
 
 ---
-
-## 🧩 Atualmente
-
-- Estudando estruturas de dados avançadas (piece table, gap buffer, etc)
-- Melhorando performance de renderização
-- Brincando com Zig 🧠
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/GabrielNatucci">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
