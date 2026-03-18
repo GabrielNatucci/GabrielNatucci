@@ -33,12 +33,3 @@
 </p>
 
 ---
-
-## Projetos em destaque
-
-- Tic Tac Toe com minimax
-- Calculadora desktop com Electron
-- HeadUnit com android auto
-- Projetos embarcados / Arduino
-
----
