@@ -11,9 +11,9 @@
 ## Sobre mim
 
 - Foco em performance e sistemas
-- Curto trabalhar com C, C++ e Zig
+- Curto trabalhar com C, C++ e Zig para sistemas
+- Curto trabalhar com Java e Typescript para web
 - Explorando engines, renderização e coisas low-level
-- Também mexo com web quando precisa
 
 ---
 
