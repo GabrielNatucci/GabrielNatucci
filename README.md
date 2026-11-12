@@ -28,7 +28,7 @@
 ## Stats
 
 <p align="center">
-  ![Top Languages](https://ghstats.dev/api/langs?username=GabrielNatucci&theme=tokyonight&custom_title=Gabriel+Natucci&max_langs=10&layout=donut_vertical)
+  <img src="https://ghstats.dev/api/langs?username=GabrielNatucci&theme=tokyonight&custom_title=Gabriel+Natucci&max_langs=10&layout=donut_vertical" alt="Top Languages" />
 </p>
 
 ---
