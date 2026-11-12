@@ -2,7 +2,7 @@
 
 <p align="center">
   Full Stack Developer <br>
-  Curto baixo nível, performance e sistemas <br>
+  Sou o pior Desenvolvedor pleno que você já viu <br>
   Sempre criando coisas novas
 </p>
 
